@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/Applet/bkacc/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA,wCAAmB;AACnB;AACA,kN;AACAA,UAAU,CAACC,gBAAD,CAAV,C","file":"pages/huodong/huodong.js","sourcesContent":["import 'uni-pages';import '@dcloudio/uni-stat';\nimport Vue from 'vue'\nimport Page from './pages/huodong/huodong.vue'\ncreatePage(Page)"],"sourceRoot":""}

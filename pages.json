@@ -1,0 +1,250 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarBackgroundColor": "#00aafa",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/location/location",
+			"style": {
+				"navigationBarTitleText": "位置",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},		
+		{
+			"path": "pages/super/super",
+			"style": {
+				"navigationBarTitleText": "活动",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/join/join",
+			"style": {
+				"navigationBarTitleText": "加盟",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/cart/supercart",
+			"style": {
+				"navigationBarTitleText": "购物车",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/super/goods",
+			"style": {
+				"navigationBarTitleText": "活动商品",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/merchant/merchant",
+			"style": {
+				"navigationBarTitleText": "商家",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/merchant/shop",
+			"style": {
+				"navigationBarTitleText": "店铺",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"custom"
+			}
+		},
+		
+		{
+			"path": "pages/ads/ads",
+			"style": {
+				"navigationBarTitleText": "广告",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},		
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/daren",
+			"style": {
+				"navigationBarTitleText": "分享达人",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/user/superorders",
+			"style": {
+				"navigationBarTitleText": "分享达人订单",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"black"
+			}
+		},
+		{
+			"path": "pages/user/coupon",
+			"style": {
+				"navigationBarTitleText": "优惠券",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/user/hexiao",
+			"style": {
+				"navigationBarTitleText": "核销",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/user/recharge",
+			"style": {
+				"navigationBarTitleText": "钱包",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/user/content",
+			"style": {
+				"navigationBarTitleText": "内容",
+				"enablePullDownRefresh":true,//开启下拉刷新
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/userlogin/userlogin",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/setting/setting",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/setting/nickname",
+			"style": {
+				"navigationBarTitleText": "修改昵称",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/setting/address",
+			"style": {
+				"navigationBarTitleText": "收货地址",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/setting/editaddress",
+			"style": {
+				"navigationBarTitleText": "编辑地址",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/setting/invite",
+			"style": {
+				"navigationBarTitleText": "推荐人",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/kefu",
+			"style": {
+				"navigationBarTitleText": "客服",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/join",
+			"style": {
+				"navigationBarTitleText": "合作加盟",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/invite",
+			"style": {
+				"navigationBarTitleText": "邀请",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		},
+		{
+			"path": "pages/user/integral",
+			"style": {
+				"navigationBarTitleText": "积分",
+				"enablePullDownRefresh":true//开启下拉刷新
+			}
+		}
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "众晨星",		
+		"navigationBarBackgroundColor":"#00aafa",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle":"default"
+	},
+	"tabBar": {
+		"color": "#7a7a7a",
+		"selectedColor": "#008efe",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home_active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/super/super",
+				"iconPath": "static/tabbar/super.png",
+				"selectedIconPath": "static/tabbar/super_active.png",
+				"text": "活动"
+			},
+			{
+				"pagePath": "pages/merchant/merchant",
+				"iconPath": "static/tabbar/merchant.png",
+				"selectedIconPath": "static/tabbar/merchant_active.png",
+				"text": "商家"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/tabbar/users.png",
+				"selectedIconPath": "static/tabbar/users_active.png",
+				"text": "我的"
+			}
+		]
+	}
+	
+}

@@ -1,0 +1,18 @@
+
+.address_list{width:100%;margin-bottom:100rpx;}
+.address_item{background:#fff;border-bottom:1rpx solid #eee;padding:20rpx;line-height:40rpx;margin-bottom:20rpx;}
+.address_item .address_detail{font-weight: bold;color:#333;font-size:32rpx;}
+.address_item .address_info{color:#666;font-size:28rpx;}
+.address_op{width:100rpx;text-align:center;}
+.address_op image{width:60rpx;height:60rpx;margin:20rpx;}
+.btn_row{border-top:1rpx solid #eee;padding:10rpx 0 0;}
+.option_btn{display:inline-block;margin-left:20rpx;line-height:50rpx;border:1rpx solid #ddd;padding:0 20rpx;font-size:28rpx;border-radius:50rpx;}
+.default_btn{line-height:50rpx;border:1rpx solid #ddd;padding:0 20rpx;font-size:28rpx;display:inline-block;border-radius:50rpx;}
+.isdefault{background:#ff643d;color:#fff;border:1rpx solid #ff643d;}
+.address_mess{padding-bottom:20rpx;}
+.choose_btn{line-height:50rpx;border:1rpx solid #ddd;padding:0 20rpx;font-size:28rpx;display:inline-block;border-radius:6rpx;height:50rpx;background:#fafafa;margin-top:20rpx;}
+.addaddress{background:#00aafa;color:#fff;position:fixed;bottom:0;width:100%;height:100rpx;line-height:100rpx;text-align: center;font-size:32rpx;}
+
+
+
+

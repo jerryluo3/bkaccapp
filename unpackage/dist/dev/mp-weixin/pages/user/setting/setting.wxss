@@ -1,0 +1,14 @@
+
+.main{background:#fff;}
+.info_block{padding:30rpx 0 0 30rpx;background:#fff;display: block;}
+.info_title{font-size:24rpx;color:#777;}
+.info_list{}
+.info_item{border-bottom:1rpx solid #eee;height:100rpx;line-height:100rpx;}
+.info_name{font-size: 32rpx;line-height:100rpx;}
+.info_desc{font-size:24rpx;color:#777;line-height:100rpx;}
+.info_desc image{width:80rpx;height:80rpx;border-radius:50%;}
+.users_avatar{background:#c3e7f3;border-radius:50%;width:80rpx;height:80rpx;}
+.info_more{width:30rpx;height:30rpx;padding:5rpx 30rpx; vertical-align:middle;margin-top:30rpx;}
+.info_more image{width:30rpx;height:30rpx;}
+.userlogin_quit{width:100%;border-bottom:1rpx solid #eee;height:100rpx;line-height:100rpx;text-align:center;color:#ff8400;font-size: 32rpx;}
+

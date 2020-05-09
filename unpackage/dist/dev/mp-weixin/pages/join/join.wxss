@@ -1,0 +1,12 @@
+
+page{background:#000;}
+.join_header{width:100%;}
+.join_header image{width:100%;}
+.join_content{margin:30rpx;background:rgba(255,255,255,.2);color:#fff;font-size:32rpx;padding:30rpx;border-radius: 10rpx;}
+.join_list{padding:30rpx;}
+.join_item{margin:20rpx 0;}
+.join_txt{background:#666;border-radius: 10rpx;height:80rpx;line-height:80rpx;padding:0 40rpx;font-size:32rpx;color:#fff;}
+.join_title{text-align: center;font-size:36rpx;color:#fff;}
+.join_btn{background:#f40;color:#fff;text-align: center;font-size:32rpx;margin:20rpx 0;height:100rpx;line-height:100rpx;border-radius: 10rpx;}
+.zixun_btn{margin:30rpx;background:#007AFF;color:#fff;text-align: center;font-size:32rpx;height:100rpx;line-height:100rpx;border-radius: 50rpx;}
+

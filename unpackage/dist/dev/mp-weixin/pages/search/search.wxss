@@ -1,0 +1,27 @@
+
+.search_block{padding:20rpx 0;display:block;background:#fff;}
+.search_btn{padding:10rpx 20rpx;}
+.search_btn image{width:40rpx;height:40rpx;}
+.input_txt{background:#e5e5e5;margin:0 20rpx;padding:0 20rpx;display:block;border-radius:30rpx;height:60rpx;line-height:60rpx;font-size:28rpx;color:#555;}
+.commend_keys{display:block;font-size:28rpx;}
+.commend_keys_title{padding:20rpx;font-size:24rpx;}
+.commend_keys_list{padding:0 20rpx;}
+.keys_item{border:1rpx solid #ddd;padding:10rpx 20rpx;border-radius:40rpx;display:inline-block;margin:0 10rpx;}
+/****店铺列表***/
+.shop_list{width:100%;background:#fff;padding-bottom:20rpx;}
+.shop_item{padding:20rpx;}
+.shop_logo{width:170rpx;height:170rpx;border-radius: 6rpx;border:1rpx solid #eee;margin-right:20rpx;}
+.shop_logo image{width:170rpx;height:170rpx;border-radius: 6rpx;}
+.shop_title{font-size:32rpx;font-weight: 700;}
+.shop_addr{color:#666;padding:10rpx 0;}
+.shop_tags{padding:10rpx 0;}
+.shop_tags_item{border:1rpx solid #d9d9d9;color:#ff6408;margin-right:10rpx;padding:0 5rpx;display:inline-block;font-size:20rpx;border-radius:4rpx;}
+.shop_mobile{color:#f40;font-size:28rpx;line-height:60rpx;}
+.shop_zhuying{background:#f7fbfd;color:#819caa;padding:5rpx 10rpx;border-radius: 6rpx;}
+.shop_info_ico{width:30rpx;height:30rpx;padding:15rpx;}
+.shop_info_ico image{width:30rpx;height:30rpx;display: block;}
+.shop_info_desc{line-height:60rpx;color:#999}
+/****全部***/
+.isall{width:100%;text-align:center;color:#ccc;margin:20rpx 0;border-bottom:1rpx solid #f1f1f1;height:20rpx;}
+.isall text{padding:0 40rpx;background:#fff;position:relative;line-height:40rpx;}
+

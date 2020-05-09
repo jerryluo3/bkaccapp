@@ -1,0 +1,11 @@
+
+page{background:#fff;}
+.block{padding:20rpx;font-size:28rpx;}
+.join_title{font-size:32rpx;font-weight:bold;text-align:center;margin-bottom:20rpx;}
+.join_content{color:#5a5a5a;line-height:40rpx;}
+.content_list{background:#fff;padding-left:20rpx;}
+.content_item{border-bottom:1rpx solid #eee;line-height:80rpx;height:80rpx;}
+.content_item .content_title{line-height:80rpx;font-size:32rpx;color:#333;}
+.content_item .content_more{width:40rpx;height:40rpx;margin:20rpx;}
+.content_item .content_more image{width:40rpx;height:40rpx;}
+

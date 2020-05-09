@@ -1,0 +1,17 @@
+
+.login_bg{width:100%;display:block;position:fixed;top:0;right:0;bottom:0;left:0;}
+.login_bg image{width:100%;display:block;position:absolute;top:0;}
+.login_block{position:fixed;bottom:100rpx;width:100%;text-align:center;}
+.logo{width:150rpx;height:150rpx;margin:0 auto;}
+.logo image{width:150rpx;height:150rpx;}
+.open_mess{width:90%;padding:2% 5%;text-align:center;}
+.open_mess_title{font-size:32rpx;color:#333;}
+.open_mess_title text{display:block;line-height:40rpx;color:#00aafa;}
+.open_mess_auth{color:#888;padding:10rpx 0;}
+.open_mess_auth text{font-size:24rpx;}
+.open_mess_btn{background:#00aafa;color:#fff;height:100rpx;line-height:100rpx;margin:30rpx 0;position:relative;font-size:32rpx;}
+.open_mess_tab{display: block;text-align:center;}
+.open_mess_tab .tab_row{width:70rpx;height:8rpx;background:#aaa;margin:0 10rpx;display:inline-block;}
+.open_mess_tab .tab_in{background:#00aafa;}
+.login_footer{position:fixed;bottom:40rpx;color:#555;width:100%;text-align:center;font-size:32rpx;}
+

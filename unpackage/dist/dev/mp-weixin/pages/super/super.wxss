@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******素材******/
+.goods_list {
+	padding-top: 20rpx;
+}
+.goods_item {
+	margin: 0 20rpx 20rpx 20rpx;
+	background: #fff;
+	width: 710rpx;
+	border-radius: 10rpx;
+}
+.goods_img {
+	width: 100%;
+	height: 355rpx;
+	border-top-left-radius: 10rpx;
+	border-top-right-radius: 10rpx;
+}
+.goods_img image {
+	width: 100%;
+	height: 300rpx;
+	border-top-left-radius: 10rpx;
+	border-top-right-radius: 10rpx;
+}
+.goods_price {
+	color: #f40;
+	font-weight: 700;
+	font-size: 32rpx;
+}
+.goods_title {
+	font-size: 32rpx;
+	font-weight: 700;
+	line-height: 40rpx;
+	padding: 20rpx;
+}
+.goods_info {
+	border-top: 1rpx solid #eee;
+	line-height: 60rpx;
+	padding: 20rpx;
+}
+.goods_price {
+	color: #f00;
+	font-size: 32rpx;
+	font-weight: 700;
+	display: inline-block;
+	line-height: 60rpx;
+}
+.goods_mprice {
+	color: #666;
+	text-decoration: line-through;
+	display: inline-block;
+	padding: 0 10rpx;
+	line-height: 60rpx;
+}
+.goods_commission {
+	color: #fff;
+	background: #F0AD4E;
+	display: inline-block;
+	padding: 0 20rpx;
+	border-radius: 6rpx;
+	line-height: 40rpx;
+	margin: 10rpx 0;
+}
+.goods_sales {
+	line-height: 60rpx;
+	color: #666;
+}
+.super_list {
+	padding-top: 20rpx;
+}
+.super_item {
+	margin: 0 20rpx 20rpx 20rpx;
+	background: #fff;
+	width: 710rpx;
+	border-radius: 10rpx;
+}
+.super_img {
+	width: 100%;
+	height: 300rpx;
+	border-top-left-radius: 10rpx;
+	border-top-right-radius: 10rpx;
+}
+.super_img image {
+	width: 100%;
+	height: 300rpx;
+	border-top-left-radius: 10rpx;
+	border-top-right-radius: 10rpx;
+}
+.super_title {
+	font-size: 32rpx;
+	font-weight: 700;
+	line-height: 40rpx;
+	padding: 20rpx;
+}
+.super_distance{line-height: 40rpx;font-size:28rpx;padding: 20rpx;}
+.super_times{line-height: 40rpx;padding:0 20rpx 20rpx;}
+.super_shop_info {
+	padding: 20rpx;
+	border-top: 1rpx solid #eee;
+	background: #fafafa;
+}
+.super_shop_info_item {
+	color: #333;
+}
+.super_shop_info_title {
+	font-size: 28rpx;
+}
+/****全部***/
+.isall {
+	width: 100%;
+	text-align: center;
+	color: #ccc;
+	margin: 20rpx 0;
+	border-bottom: 1rpx solid #f1f1f1;
+	height: 20rpx;
+}
+.isall text {
+	padding: 0 40rpx;
+	background: #fff;
+	position: relative;
+	line-height: 40rpx;
+}
+
+
+

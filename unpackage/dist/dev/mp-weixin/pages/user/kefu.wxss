@@ -1,0 +1,77 @@
+
+.uni-mask {
+	position: fixed;
+	z-index: 998;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, .3);
+}
+.uni-popup {
+	position: absolute;
+	z-index: 999;
+	background-color: #ffffff;
+	-webkit-box-shadow: 0 0 30rpx rgba(0, 0, 0, .1);
+	        box-shadow: 0 0 30rpx rgba(0, 0, 0, .1);
+}
+.uni-popup-middle {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 80%;
+	height: auto;
+	border-radius: 10rpx;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	padding: 30rpx;
+	position:fixed
+}
+.uni-popup-top {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+}
+.uni-popup-bottom {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+}
+
+
+page{background:#fff;}
+.btn_block{with:100%;text-align: center;background:#fff;padding:30rpx 0;}
+.btn_block_item{position:relative;}
+.btn_block .online_bg{background:#8bcb96;}
+.btn_block .phone_bg{background:#f5c066;}
+.btn_block .btn_img{width:100rpx;height:100rpx;margin:20rpx auto;border-radius:50%;}
+.btn_block .btn_img image{width:60rpx;height:60rpx;margin:20rpx;}
+.btn_words{text-align:center;color:#333;}
+.btn_words .mwords{font-size:32rpx;line-height:30rpx;}
+.btn_words .mtips{color:#666;}
+.common_question{padding:0 20rpx;line-height:80rpx;height:80rpx;font-size:28rpx;color:#666;}
+.question_list{background:#fff;padding-left:20rpx;}
+.question_item{border-bottom:1rpx solid #eee;line-height:80rpx;height:80rpx;}
+.question_item .question_title{line-height:80rpx;font-size:32rpx;color:#333;}
+.question_item .question_more{width:40rpx;height:40rpx;margin:20rpx;}
+.question_item .question_more image{width:40rpx;height:40rpx;}
+.question{padding:20rpx;background:#fff;font-size:28rpx;color:#333;}
+

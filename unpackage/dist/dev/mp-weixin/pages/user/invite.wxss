@@ -1,0 +1,17 @@
+
+.invite_header{width:750rpx;height:705rpx;}
+.invite_header image{width:750rpx;height:705rpx;}
+.invite_list{width:750ux;text-align:center;background:#fff6d7;color:#702200;}
+.invite_btns{background:#fff;width:750rpx;padding:80rpx 0;text-align: center;margin-bottom:20rpx;}
+.invite_haibao{background:#00BFFF;color:#fff;font-size:40rpx;width:90%;height:80rpx;line-height:80rpx;border-radius:60rpx;margin:0 5%;}
+.invite_qrcode{background:#09BB07;color:#fff;font-size:40rpx;width:90%;height:80rpx;line-height:80rpx;border-radius:60rpx;margin:0 5%;position:relative;}
+.invite_rule{background:#fff;width:750rpx;padding-top:30rpx;}
+.invite_rule_title{font-size:36rpx;text-align:center;border-bottom:1rpx dashed #ccc;height:40rpx;}
+.invite_rule_title text{position:relative;background:#fff;padding:0 20rpx;line-height:40rpx;}
+.invite_rule_content{padding:40rpx;color:#444;}
+.uni-popup-middle{width:60%;height:auto;position:fixed;padding:0;}
+.qrcode{width:380rpx;height:380rpx;}
+.haibaoimg{width:600rpx;height:1050rpx;}
+.savebtn{width:90%;background:#FF8400;color:#fff;height:100rpx;border-radius:6rpx;text-align:center;line-height:100rpx;position: fixed;bottom:120rpx;}
+.invite_user{width:30%;display:inline-block;height:60rpx;line-height:60rpx;text-align:center;}
+

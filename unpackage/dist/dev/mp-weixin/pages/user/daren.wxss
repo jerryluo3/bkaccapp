@@ -1,0 +1,6 @@
+
+.daren_bg{position:fixed;z-index: 1;width:100%;top:0;bottom:0;overflow:hidden}
+.daren_bg image{width:100%;height: 100%;}
+.daren_btn{width:90%;margin:5%;position:fixed;bottom:0;background:#eab75e;color:#fff;text-align:center;height:100rpx;line-height:100rpx;border-radius:100rpx;z-index:999;font-size:32rpx;font-weight: 700;}
+.daren_btn text{text-decoration: line-through;}
+

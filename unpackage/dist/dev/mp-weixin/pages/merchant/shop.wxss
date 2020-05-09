@@ -1,0 +1,115 @@
+
+page{background:#eee;}
+.page_blank{width:100%;height:120rpx;}
+.shop_bar{width:100%;height:200rpx;background:#00aafa;}
+.shop_bar image{width:100%;height:200rpx;display: block;}
+.shop_header{padding:10rpx 3%;background:rgba(0,0,0,.3);height:60rpx;overflow: hidden;position:absolute;z-index:10000;top:120rpx;left:0;width:94%;}
+.shop_logo{width:60rpx;height:60rpx;border-radius:10rpx;border:1rpx solid #ddd;margin-right:20rpx;}
+.shop_logo image{width:60rpx;height:60rpx;border-radius:10rpx;}
+.shop_info{padding:20rpx;background:#fff;margin:20rpx;border-radius:10rpx;}
+.shop_title{font-size:32rpx;font-weight: 700;}
+.shop_address{font-size:28rpx;}
+.shop_mobile{font-size:28rpx;}
+.shop_btns{padding:30rpx 0;}
+.shop_btn{width:300rpx;margin:0 auto;height:100rpx;border-radius:50rpx;text-align: left;color:#fff;}
+.calling{background:#f40;-webkit-box-shadow: 0 6rpx 10rpx #ccc;box-shadow: 0 6rpx 10rpx #ccc;}
+.daohang{background:#007AFF;-webkit-box-shadow: 0 6rpx 10rpx #ccc;box-shadow: 0 6rpx 10rpx #ccc;}
+.btn_img,.btn_img image{width:60rpx;height:60rpx;}
+.btn_img{margin:20rpx 20rpx 20rpx 30rpx;}
+.btn_words{font-size:32rpx;line-height:30rpx;padding-top:20rpx;font-weight: 700;}
+.btn_tips{font-size:20rpx;line-height:36rpx;}
+.menu{width:100%;height:100rpx;background:#00aafa;position:fixed;bottom:0;}
+.menu_item{text-align: center;font-size:28rpx;font-weight: 700;line-height:100rpx;color:#fff;}
+.menu_item_in{background:#0A98D5;}
+.shop_main{position:fixed;top:300rpx;width:100%;bottom:100rpx;background:#fff;}
+.shop_left{width:200rpx;text-align: center;position:relative;}
+
+/******头部广告列表*******/
+.swiper{width:100%;height:300rpx;}
+.swiper .turnpic image{width:100%;height:300rpx;display:block;}
+.search{padding:20rpx;background:#fff;}
+.search_txt{background:#eee;border-radius:80rpx;height:80rpx;line-height:80rpx;text-align:center;font-size:28rpx;}
+
+/******类别列表********/
+.shop_category{background:#fafafa;position:absolute;width:100%;top:0;bottom:0;overflow: scroll;}
+.shop_cat{width:100%;height:100rpx;line-height:100rpx;font-size:32rpx;border-bottom: 1rpx solid #eee;}
+.shop_cat_in{background:#fff;font-weight: 700;color:#00aafa}
+
+/******类别*******/
+.cat_nav_list{padding:30rpx 0;background:#fff;}
+.cat_nav_item{width:25%;display: inline-block;text-align: center;font-size:28rpx;}
+.cat_nav_ico{width:100rpx;height:100rpx;background:#fafafa;border-radius: 50%;margin:0 auto;}
+.cat_nav_ico image{width:100rpx;height:100rpx;border-radius: 50%;}
+.cat_nav_name{height:60rpx;line-height:60rpx;}
+.ads_item{width:100%;}
+.ads_item image{width:100%;height:300rpx;margin-bottom:10rpx;display: block;}
+
+/******商品列表********/
+.goods_list{padding:2%;}
+.goods_item{padding:2%;width:42%;display: inline-block; vertical-align: top;height:450rpx;background:#fafafa;margin:2%;-webkit-box-shadow:0 3rpx 3rpx #eee;box-shadow:0 3rpx 3rpx #eee;}
+.goods_picture{height:280rpx;}
+.goods_picture image{width:100%;height:100%;}
+.goods_title{font-size:32rpx;line-height:40rpx;height:80rpx;margin:10rpx 0;overflow: hidden;}
+.goods_price{font-size:32rpx;font-weight:700;color:#f40;height:60rpx;line-height:60rpx;}
+.goods_shenqingprice{background:#f40;color:#fff;border-radius:6rpx;height:50rpx;line-height:50rpx;padding:0 10rpx;display:inline-block;}
+.goods_btn,.goods_btn image{width:50rpx;height:50rpx;border-radius:50%;}
+.goods_btn{border:4rpx solid #00aafa;border-radius:50%;display:inline-block;vertical-align:top;}
+.goods_nums{width:60rpx;text-align:center;line-height:60rpx;display:inline-block;vertical-align:top;}
+.goods_add{background:#00aafa;}
+.goods_sub{}
+.goods_tags{padding:10rpx 0;}
+.goods_tags_item{border:1rpx solid #d9d9d9;color:#ff6408;margin-right:10rpx;padding:0 5rpx;display:inline-block;font-size:20rpx;border-radius:4rpx;}
+.block{margin-top:20rpx;background:#fff;border-radius: 6rpx;margin:20rpx;}
+.block_title{padding:0 20rpx;height:80rpx;}
+.block_title_name{font-size:32rpx;font-weight: 700;line-height:80rpx;}
+.block_title_more{font-size:28rpx;color:#666;line-height:80rpx;color:#fff;}
+.block_content{padding:15rpx;background:#fff;}
+
+/******推荐商家*****/
+.commend_shop{background:#fff;padding:10rpx;}
+.commend_shop_item{padding:5rpx;width:170rpx;display: inline-block;vertical-align: top;text-align: center;}
+.commend_shop_logo,.commend_shop_logo image{width:150rpx;height:150rpx;border-radius:50%;}
+.commend_shop_logo{margin:0 auto;}
+.commend_shop_title{height:80rpx;line-height:40rpx;}
+.sharebg{background-color:rgba(0, 0, 0, 0.3);width:100%;position:fixed;z-index:10;top:0;bottom:0;left:0;right:0;}
+.shareHB{width:80%;margin:4% 10%;position:fixed;z-index:10000;top:0;}
+.shareHB_c{background:#fff;}
+.shareBtn{position:absolute;left:35%;bottom:-80rpx;width:30%;text-align:center;height:60rpx;line-height:60rpx;color:#000;font-size:32rpx;background:#fff;}
+.shop_haibao{background:#fff;}
+
+/******form_block******/
+.form_block{width:90%;background:#fff;padding:5%;position:fixed;bottom:0;z-index:111111}
+.form_item{border-bottom:1rpx solid #eee;height:80rpx;line-height:80rpx;padding:10rpx;}
+.form_input{height:80rpx;line-height:80rpx;padding:0 3%;font-size:36rpx;}
+.form_btn{background:#ff8400;color:#fff;margin:3%;height:100rpx;line-height:100rpx;border-radius:6rpx;text-align:center;font-size:32rpx;font-weight:bold;}
+.pop_bg{background-color:rgba(0, 0, 0, 0.3);width:100%;position:fixed;z-index:10;top:0;bottom:0;left:0;right:0;}
+.hideitem{display: none;}
+
+/*******shop_coupon*********/
+.shop_coupon{background:#fff;margin:20rpx;position:relative;overflow: hidden;}
+.shop_coupon_border{position:absolute;top:0;z-index:5;width:8rpx;}
+.shop_coupon_border image{width:8rpx;}
+.border_left{left:-4rpx;}
+.border_right{right:-4rpx;}
+.shop_coupon_title{height:100rpx;line-height:100rpx;background:#e5382f;color:#fff3b9;font-size:36rpx;padding:0 30rpx;font-weight: 600;}
+.shop_coupon_main{background:#e9463d;padding:20rpx 30rpx;color:#fff3b9;}
+.shop_coupon_item{height:40rpx;line-height:50rpx;font-size:24rpx;}
+.shop_coupon_amount{width:230rpx;text-align: right;font-size:32rpx;line-height:100rpx;}
+.shop_coupon_amount text{font-size:100rpx;font-weight: 700;}
+.shop_coupon_btn{background:#16b9c2;height:80rpx;line-height:80rpx;text-align: center;font-size:36rpx;color:#fff;font-weight: 700;}
+.coupon{background:#ea5432;color:#f4d9a5;border-radius:8rpx;margin:20rpx;}
+.coupon_info{padding:20rpx 0;}
+.coupon_info_item{}
+.coupon_info_amount{width:200rpx;text-align: center;padding-right:10rpx;}
+.coupon_info_amount_words{font-size:24rpx;display: inline-block;vertical-align: middle;line-height:50rpx;padding-top:30rpx;}
+.coupon_info_amount_words text{font-size:64rpx;font-weight: 700;line-height:50rpx;}
+.coupon_info_amount_tips{font-size:24rpx;line-height:30rpx;}
+.coupon_info_title{font-size:32rpx;display: inline-block;vertical-align: middle;line-height:60rpx;}
+.coupon_btn{width:200rpx;text-align: center;position: relative;}
+.coupon_btn_words{line-height:200rpx;font-size: 32rpx;font-weight: 700;}
+.coupon_jg{border-left:4rpx dotted #ededed;position:relative;width:10rpx;height:200rpx;position:absolute;z-index:2;left:0;}
+.coupon_yuan_top{position:absolute;top:-10rpx;left:-12rpx;}
+.coupon_yuan_bottom{position:absolute;bottom:-10rpx;left:-12rpx;}
+.coupon_jg_yuan{width:20rpx;height:20rpx;background:#ededed;border-radius: 50%;}
+
+

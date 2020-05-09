@@ -1,0 +1,9 @@
+
+.userlogin{margin:20rpx 0;background:#fff;}
+.userlogin_item{border-bottom:1rpx solid #eee;height:80rpx;line-height:80rpx;padding:10rpx;}
+.userlogin_tips{padding:10rpx 20rpx;font-size:24rpx;color:#aaa;}
+.userlogin_input{height:80rpx;line-height:80rpx;padding:0 3%;font-size:36rpx;}
+.userlogin_btn{background:#ff8400;color:#fff;margin:3%;height:100rpx;line-height:100rpx;border-radius:6rpx;text-align:center;font-size:32rpx;font-weight:bold;}
+.getcode{background:#f0f0f0;padding:0 20rpx;border-radius:6rpx;}
+.getcode_use{background:#fdd108;color:#725e03;}
+

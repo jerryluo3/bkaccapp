@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/location/location",
+    "pages/super/super",
+    "pages/join/join",
+    "pages/cart/supercart",
+    "pages/super/goods",
+    "pages/merchant/merchant",
+    "pages/merchant/shop",
+    "pages/ads/ads",
+    "pages/user/user",
+    "pages/user/daren",
+    "pages/user/superorders",
+    "pages/user/coupon",
+    "pages/user/hexiao",
+    "pages/user/recharge",
+    "pages/user/content",
+    "pages/userlogin/userlogin",
+    "pages/user/setting/setting",
+    "pages/user/setting/nickname",
+    "pages/user/setting/address",
+    "pages/user/setting/editaddress",
+    "pages/user/setting/invite",
+    "pages/user/kefu",
+    "pages/user/join",
+    "pages/user/invite",
+    "pages/user/integral"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "众晨星",
+    "navigationBarBackgroundColor": "#00aafa",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "default"
+  },
+  "tabBar": {
+    "color": "#7a7a7a",
+    "selectedColor": "#008efe",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/super/super",
+        "iconPath": "static/tabbar/super.png",
+        "selectedIconPath": "static/tabbar/super_active.png",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/merchant/merchant",
+        "iconPath": "static/tabbar/merchant.png",
+        "selectedIconPath": "static/tabbar/merchant_active.png",
+        "text": "商家"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabbar/users.png",
+        "selectedIconPath": "static/tabbar/users_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取位置将用于定位商家服务"
+    }
+  },
+  "plugins": {},
+  "navigateToMiniProgramAppIdList": [
+    "wx8cac4ba732d41675"
+  ],
+  "usingComponents": {
+    "page-head": "/components/page-head",
+    "page-menu": "/components/page-menu"
+  },
+  "sitemapLocation": "sitemap29.json"
+}

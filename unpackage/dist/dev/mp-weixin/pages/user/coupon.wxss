@@ -1,0 +1,21 @@
+
+.coupon_item{width:96%;margin:2%;background:#fff;border-radius:6rpx;height:140rpx;}
+.coupon_item_left{width:160rpx;text-align:center;height:140rpx;border-right:1rpx dotted #ccc;}
+.coupon_amount{font-size:40rpx;color:#ff643d;font-weight:bold;display: inline-block;}
+.coupon_amount text{font-size:24rpx;font-weight:bold;display: inline-block;}
+.coupon_needamount{color:#777;font-size:20rpx;}
+.coupon_info{height:140rpx;padding-left:10rpx;}
+.coupon_title{font-size:30rpx;line-height:60rpx;padding-top:20rpx;}
+.coupon_expired{font-size:24rpx;color:#777;}
+.coupon_use{text-align:center;line-height:140rpx;padding:0 20rpx;background:#fafafa;}
+.uni-swiper-tab{background:#fff;}
+.uni-tab-bar .active{color:#ff643d;border-bottom:4rpx solid #ff643d;margin-bottom:-6rpx;}
+.swiper-tab-list{height:78rpx;}
+.tabs{background:#fff;height:100rpx;border-bottom:1rpx solid #eee;}
+.tabs .tabs_item{font-size: 32rpx;text-align: center;line-height:100rpx;}
+.tabs .active{border-bottom:4rpx solid #ff643d;margin-bottom:-2rpx;font-weight: 700;color:#ff643d;}
+.popbg{background:rgba(0,0,0,.8);position:fixed;top:0;right:0;bottom:0;left:0;z-index:100;}
+.pop_orderqr{width:500rpx;background:#fff;border-radius:10rpx;position:fixed;top:200rpx;left:105rpx;right:105rpx;padding:20rpx;z-index:1000;}
+.pop_orderqr image{width:500rpx;height:500rpx;display:block;}
+
+
